@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your Frontend Mentor solution URL here]
-- Live Site URL: [Add your live site URL here]
+- Solution URL: [SOLUTION](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
+- Live Site URL: [LIVE](https://ayoubsasi20.github.io/Interactive-rating-component/)
 
 ## My process
 
